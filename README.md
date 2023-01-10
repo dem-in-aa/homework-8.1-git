@@ -22,18 +22,23 @@
 **Что нужно сделать:**
 
 1. Зарегистрируйте аккаунт на [GitHub](https://github.com/).
-1. Создайте публичный репозиторий. Обязательно поставьте галочку в поле «Initialize this repository with a README».
-2. Склонируйте репозиторий, используя https протокол `git clone ...`.
-3. Перейдите в каталог с клоном репозитория.
-1. Произведите первоначальную настройку Git, указав своё настоящее имя и email: `git config --global user.name` и `git config --global user.email johndoe@example.com`.
-1. Выполните команду `git status` и запомните результат.
-1. Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified.
-1. Ещё раз выполните `git status` и продолжайте проверять вывод этой команды после каждого следующего шага.
-1. Посмотрите изменения в файле README.md, выполнив команды `git diff` и `git diff --staged`.
-1. Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой `git add README.md`.
-1. Ещё раз выполните команды `git diff` и `git diff --staged`.
-1. Теперь можно сделать коммит `git commit -m 'First commit'`.
-1. Сделайте `git push origin master`.
+![Скриншот 1](https://github.com/dem-in-aa/homework-8.1-git/main/img/screen_1.png)
+2. Создайте публичный репозиторий. Обязательно поставьте галочку в поле «Initialize this repository with a README».
+![Скриншот 2](https://github.com/dem-in-aa/homework-8.1-git/main/img/screen_2.png)
+3. Склонируйте репозиторий, используя https протокол `git clone ...`.
+![Скриншот 3](https://github.com/dem-in-aa/homework-8.1-git/main/img/screen_3.png)
+4. Перейдите в каталог с клоном репозитория.
+5. Произведите первоначальную настройку Git, указав своё настоящее имя и email: `git config --global user.name` и `git config --global user.email johndoe@example.com`.
+![Скриншот 4](https://github.com/dem-in-aa/homework-8.1-git/main/img/screen_4.png)
+6. Выполните команду `git status` и запомните результат.
+7. Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified.
+![Скриншот 5](https://github.com/dem-in-aa/homework-8.1-git/main/img/screen_5.png)
+8. Ещё раз выполните `git status` и продолжайте проверять вывод этой команды после каждого следующего шага.
+9. Посмотрите изменения в файле README.md, выполнив команды `git diff` и `git diff --staged`.
+10. Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой `git add README.md`.
+11. Ещё раз выполните команды `git diff` и `git diff --staged`.
+12. Теперь можно сделать коммит `git commit -m 'First commit'`.
+13. Сделайте `git push origin master`.
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
