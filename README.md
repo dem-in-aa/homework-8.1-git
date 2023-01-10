@@ -22,17 +22,17 @@
 **Что нужно сделать:**
 
 1. Зарегистрируйте аккаунт на [GitHub](https://github.com/).
-![Скриншот 1](https://github.com/dem-in-aa/homework-8.1-git/main/img/screen_1.png)
+![Скриншот 1](https://github.com/dem-in-aa/homework-8.1-git/img/screen_1.png)
 2. Создайте публичный репозиторий. Обязательно поставьте галочку в поле «Initialize this repository with a README».
-![Скриншот 2](https://github.com/dem-in-aa/homework-8.1-git/main/img/screen_2.png)
+![Скриншот 2](https://github.com/dem-in-aa/homework-8.1-git/img/screen_2.png)
 3. Склонируйте репозиторий, используя https протокол `git clone ...`.
-![ Скриншот 3](https://github.com/dem-in-aa/homework-8.1-git/main/img/screen_3.png)
+![ Скриншот 3](https://github.com/dem-in-aa/homework-8.1-git/img/screen_3.png)
 4. Перейдите в каталог с клоном репозитория.
 5. Произведите первоначальную настройку Git, указав своё настоящее имя и email: `git config --global user.name` и `git config --global user.email johndoe@example.com`.
-![Скриншот 4](https://github.com/dem-in-aa/homework-8.1-git/main/img/screen_4.png)
+![Скриншот 4](https://github.com/dem-in-aa/homework-8.1-git/img/screen_4.png)
 6. Выполните команду `git status` и запомните результат.
 7. Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified.
-![Скриншот 5](https://github.com/dem-in-aa/homework-8.1-git/main/img/screen_5.png)
+![Скриншот 5](https://github.com/dem-in-aa/homework-8.1-git/img/screen_5.png)
 8. Ещё раз выполните `git status` и продолжайте проверять вывод этой команды после каждого следующего шага.
 9. Посмотрите изменения в файле README.md, выполнив команды `git diff` и `git diff --staged`.
 10. Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой `git add README.md`.
