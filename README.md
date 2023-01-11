@@ -96,7 +96,7 @@
 
 В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
 
-![](https://github.com/dem-in-aa/homework-8.1-git/network)
+![Ссылка на граф коммитов](https://github.com/dem-in-aa/homework-8.1-git/network)
 
 ---
 ## Дополнительные задания* (со звёздочкой)
