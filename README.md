@@ -98,6 +98,9 @@
 
 [Граф коммитов](https://github.com/dem-in-aa/homework-8.1-git/network)
 
+![](img/screen_12.png)
+
+![](img/screen_13.png)
 ---
 ## Дополнительные задания* (со звёздочкой)
 
